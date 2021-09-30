@@ -6,3 +6,5 @@ Test for config type 07:
 - Start the Fiori Launchpad and go to the App Finder
 - You should see the catalog Fiori Catalog Example in the list 
 - Select it, it should contain one tile with ZABAPGIT, see the screenshot.jpg in the same folder
+
+![image](Screenshot Fiori Catalog Example.JPG)
