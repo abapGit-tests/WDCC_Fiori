@@ -5,6 +5,7 @@ Test for config type 07:
 - Add or reuse a PFCG role and add the catalog Z_FIORI_CATALOG	"Fiori Catalog Example"
 - Start the Fiori Launchpad and go to the App Finder
 - You should see the catalog Fiori Catalog Example in the list 
-- Select it, it should contain one tile with ZABAPGIT, see the screenshot.jpg in the same folder
+- Select it, it should contain one tile with ZABAPGIT
 
-![image](Screenshot Fiori Catalog Example.JPG)
+
+![image](Screenshot%20Fiori%20Catalog%20Example.JPG)
